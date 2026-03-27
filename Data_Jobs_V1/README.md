@@ -20,6 +20,8 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
   - **Buttons & Bookmarks:** To create a seamless navigation experience.
   - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
 
+## Dashboard Overview
+
 ### Page 1: High-Level Market View
 
 ![Dashboard Page 1](/images/Project1_Page1.png)
